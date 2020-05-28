@@ -1,7 +1,7 @@
 # Bilinear EfficientNet with Focal Loss + Label Smoothing  
 
 ## Plant Pathology  
-![python](/images/header.png)  
+![python](/images/Capture.png)  
 
 ### Problem Objectives:
 The aim of this challenge is to build a Generalised Model for the task of Image Classification. We have to also deal with Class Imbalance Problem and detect Fine Grained details which differentiates whether the leaf is diseased or Not.
