@@ -20,12 +20,14 @@ iii) Detect Fine Grain Details: **Bilinear CNN**
 ### Expriments and Results:
 a) Selecting the Best and Efficient CNN Backbone (img size:380x380):  
 ![python](/images/models1.png)  
+  
 b) Exprimenting with Loss Functions (img size:380x380):  
 ![python](/images/lossCompare.PNG)  
+  
 c) Bilinear CNN (img size:760x760):  
 ![python](/images/LS_1.PNG)  
 ![python](/images/loss.png)  
-
+  
 ### References:
 (1) EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks 
     (http://https//arxiv.org/abs/1905.11946)  
