@@ -25,8 +25,11 @@ b) Exprimenting with Loss Functions (img size:380x380):
 ![python](/images/lossCompare.PNG)  
   
 c) Bilinear CNN (img size:760x760):  
+  
 ![python](/images/LS_1.PNG)  
+  
 ![python](/images/loss.png)  
+  
   
 ### References:
 (1) EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks 
